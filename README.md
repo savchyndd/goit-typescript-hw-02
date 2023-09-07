@@ -1,5 +1,7 @@
 # goit-typescript-hw-02
 
+Typing: Basic concepts. Types for variables and arguments. Types for methods and functions. Custom types. Optional parameters and properties. Advaced Types. Generics
+
 ## КРИТЕРІЇ ПРИЙМАННЯ
 
 Для виконання домашнього завдання тобі буде необхідно створити репозиторій, використовуючи наданий шаблон, де розписане твоє домашнє завдання:
